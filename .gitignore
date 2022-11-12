@@ -2,3 +2,5 @@ node_modules
 appdata
 cleandata
 .env
+avarice-sdc.pem
+po.pgsql
